@@ -1,0 +1,1 @@
+Python emulation of the Hangman Game with randomly generated words 
